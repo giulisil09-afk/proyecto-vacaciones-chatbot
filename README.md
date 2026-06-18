@@ -74,7 +74,7 @@ pip install pandas openpyxl
 ### 3. Ejecutar el programa
 
 ```bash
-python3 bot.py
+python3 "bot corregido.py"
 ```
 
 ---
@@ -181,7 +181,7 @@ Todo el desarrollo, adaptación, validación y prueba del proyecto fue realizado
 
 ## Archivos del Proyecto
 
-* bot.py → Código principal
+* bot corregido.py → Código principal
 * empleados.xlsx → Base de datos de empleados
 * README.md → Documentación del proyecto
 
